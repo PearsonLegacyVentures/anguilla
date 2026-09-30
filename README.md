@@ -11,7 +11,7 @@ Output directory: /
 - BOOKING_FROM_EMAIL = Tranquilitas <bookings@bahamasmassages.com>
 
 ## Canonical host
-https://anguilla.caribspa.org
+https://anguilla.tranquilitasspa.com
 
 ## Source grounding
 Pricing and core service areas were taken from the existing Tranquilitas Caribbean data in PearsonLegacyVentures/carib-spa. New copy and architecture were written separately to avoid cloning Turks, St. Barths or the Caribbean-wide site.
