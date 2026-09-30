@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://anguilla.caribspa.org/sitemap.xml
+Sitemap: https://anguilla.tranquilitasspa.com/sitemap.xml
